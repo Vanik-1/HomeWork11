@@ -6,3 +6,11 @@
     border: 2px dotted red;
     background-color: green;
 }
+
+
+
+
+div:hover {
+    transition: all 2s ease-in-out;
+    border-radius: 50%;
+}
